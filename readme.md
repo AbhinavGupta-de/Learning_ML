@@ -1,3 +1,3 @@
-# SST_ML
+# Learning Basic Machine Learning
 
-This repo I have created only to just practice the ML basics that are being taught during the Maths class.
+Implementing basic Machine Learning algorithms myself on small data for learning purposes.
